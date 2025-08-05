@@ -70,3 +70,8 @@ mvn spring-boot:run
 API Base URL → http://localhost:8080/api/search
 
 UI → Open src/main/resources/static/index.html in your browser
+
+
+## 📺 Demo Video
+[Watch on Google Drive](https://drive.google.com/file/d/1C6tU5XtfJwKOC9FHZzde5fk3h6Ik2NKG/view?usp=drive_link)
+
