@@ -45,7 +45,7 @@ springboot-elasticsearch/
 │   └── static/index.html
 
 
-**## Setup Instructions**
+ Setup Instructions
 1. Start Elasticsearch
 Make sure you have Docker installed. Use the provided docker-compose.yml to start an Elasticsearch instance.
 
