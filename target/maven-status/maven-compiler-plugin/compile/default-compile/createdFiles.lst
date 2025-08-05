@@ -1,0 +1,7 @@
+com\example\elasticsearchdemo\service\DataLoaderService.class
+com\example\elasticsearchdemo\service\DataLoaderService$1.class
+com\example\elasticsearchdemo\document\CourseDocument.class
+com\example\elasticsearchdemo\controller\SearchController.class
+com\example\elasticsearchdemo\service\SearchService.class
+com\example\elasticsearchdemo\ElasticsearchDemoApplication.class
+com\example\elasticsearchdemo\repository\CourseRepository.class
